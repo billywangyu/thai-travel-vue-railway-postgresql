@@ -1,0 +1,154 @@
+[
+  {
+    "name": "机场入境",
+    "description": "海关、护照、行李、入境沟通",
+    "content": "<h4>泰国机场入境指南</h4><p>素万那普、廊曼机场入境必备，用于海关查验、出示护照、询问停留时间、寻找行李提取处与出口，零基础直接套用。</p>",
+    "total": 10,
+    "masteredCount": 0,
+    "sentences": [
+      {"en":"Passport please.","cn":"请出示护照。"},
+      {"en":"Here is my passport.","cn":"这是我的护照。"},
+      {"en":"I am traveling here.","cn":"我来此地旅游。"},
+      {"en":"How long can I stay?","cn":"我可以停留多久？"},
+      {"en":"I will stay for five days.","cn":"我会停留五天。"},
+      {"en":"Where is the baggage claim?","cn":"行李提取处在哪里？"},
+      {"en":"I have no checked baggage.","cn":"我没有托运行李。"},
+      {"en":"Where is the exit?","cn":"出口在哪里？"},
+      {"en":"Do you have arrival card?","cn":"你有入境卡吗？"},
+      {"en":"I filled out the form already.","cn":"我已经填好表格了。"}
+    ]
+  },
+  {
+    "name": "机场大巴交通",
+    "description": "S1大巴、票价、到站下车",
+    "content": "<h4>机场大巴出行介绍</h4><p>素万那普机场可坐S1直达考山路，便宜实惠，适合背包客，学会这句可问路、买票、问票价、请司机提醒到站。</p>",
+    "total": 10,
+    "masteredCount": 0,
+    "sentences": [
+      {"en":"Where is the S1 bus?","cn":"S1大巴在哪里坐？"},
+      {"en":"One ticket to Khao San Road.","cn":"一张去考山路的车票。"},
+      {"en":"How much is the bus fare?","cn":"大巴票价多少钱？"},
+      {"en":"Sixty baht per person.","cn":"每人60泰铢。"},
+      {"en":"Please tell me when to get off.","cn":"到站请告诉我一声。"},
+      {"en":"Is this bus going to Khao San Road?","cn":"这辆车去考山路吗？"},
+      {"en":"I want to go to Royal Rattanakosin Hotel.","cn":"我要去皇家拉达那哥欣酒店。"},
+      {"en":"How long does it take?","cn":"大概要多久？"},
+      {"en":"Traffic jam?","cn":"堵车吗？"},
+      {"en":"Can I pay by cash only?","cn":"只能付现金吗？"}
+    ]
+  },
+  {
+    "name": "打车出行",
+    "description": "出租车、打表、路线、停车",
+    "content": "<h4>曼谷打车防坑须知</h4><p>曼谷打车优先要求打表，避免司机绕路漫天要价，学会指路、停车、问总价、不用找零日常用语。</p>",
+    "total": 10,
+    "masteredCount": 0,
+    "sentences": [
+      {"en":"Taxi please.","cn":"麻烦叫一辆出租车。"},
+      {"en":"Please use the meter.","cn":"请打表。"},
+      {"en":"Do not take the long way.","cn":"不要绕路。"},
+      {"en":"Please go straight.","cn":"请直走。"},
+      {"en":"Turn left please.","cn":"请左转。"},
+      {"en":"Turn right please.","cn":"请右转。"},
+      {"en":"Stop here please.","cn":"就在这里停。"},
+      {"en":"How much in total?","cn":"一共多少钱？"},
+      {"en":"Keep the change.","cn":"不用找零了。"},
+      {"en":"I want to go to Big C supermarket.","cn":"我要去Big C超市。"}
+    ]
+  },
+  {
+    "name": "酒店入住",
+    "description": "入住、退房、WiFi、寄存行李",
+    "content": "<h4>泰国酒店入住常识</h4><p>提前预约酒店，到店办理入住、询问WiFi密码、电梯位置、寄存行李、约定退房时间都可以直接套用。</p>",
+    "total": 10,
+    "masteredCount": 0,
+    "sentences": [
+      {"en":"I have a reservation.","cn":"我有预订。"},
+      {"en":"My booking name is…","cn":"我的预订名字是……"},
+      {"en":"Check in please.","cn":"办理入住。"},
+      {"en":"One room for two nights.","cn":"一间房住两晚。"},
+      {"en":"What is the Wi-Fi password?","cn":"无线网密码是多少？"},
+      {"en":"Where is the elevator?","cn":"电梯在哪里？"},
+      {"en":"Can I leave my luggage here?","cn":"可以寄存行李吗？"},
+      {"en":"Check out tomorrow morning.","cn":"明天早上退房。"},
+      {"en":"The room is very good.","cn":"房间很不错。"},
+      {"en":"No extra service please.","cn":"不需要额外服务。"}
+    ]
+  },
+  {
+    "name": "711超市购物",
+    "description": "日用品、饮料、零食结算",
+    "content": "<h4>泰国711便利介绍</h4><p>泰国遍地7-Eleven，可买水、饮料、洗漱用品、零食、牛奶，24小时营业，旅行刚需必学。</p>",
+    "total": 10,
+    "masteredCount": 0,
+    "sentences": [
+      {"en":"A bottle of water please.","cn":"麻烦一瓶水。"},
+      {"en":"Cold beer please.","cn":"麻烦冰啤酒。"},
+      {"en":"Toothbrush and toothpaste.","cn":"牙刷和牙膏。"},
+      {"en":"Towel and slippers.","cn":"毛巾和拖鞋。"},
+      {"en":"Face tissue please.","cn":"麻烦抽纸。"},
+      {"en":"How much altogether?","cn":"一共多少钱？"},
+      {"en":"Can I pay by cash?","cn":"可以付现金吗？"},
+      {"en":"Do you have mineral water?","cn":"有矿泉水吗？"},
+      {"en":"One pack of cigarette.","cn":"一包香烟。"},
+      {"en":"Snacks and milk.","cn":"零食和牛奶。"}
+    ]
+  },
+  {
+    "name": "夜市烧烤吃饭",
+    "description": "点餐、口味、价格询问",
+    "content": "<h4>泰国夜市美食介绍</h4><p>考山路、各大夜市有芒果糯米饭、泰式炒粉、烤肉、烤鱿鱼、泰式奶茶，可备注不要辣、微辣、问单价。</p>",
+    "total": 10,
+    "masteredCount": 0,
+    "sentences": [
+      {"en":"Mango sticky rice please.","cn":"麻烦一份芒果糯米饭。"},
+      {"en":"Pad Thai noodle please.","cn":"麻烦一份泰式炒河粉。"},
+      {"en":"Grilled meat skewers.","cn":"烤肉串。"},
+      {"en":"Grilled squid please.","cn":"麻烦烤鱿鱼。"},
+      {"en":"Thai milk tea sweet.","cn":"泰式奶茶要甜的。"},
+      {"en":"No spicy please.","cn":"不要辣。"},
+      {"en":"A little spicy.","cn":"微辣就好。"},
+      {"en":"Delicious, thank you.","cn":"很好吃，谢谢。"},
+      {"en":"How much for one skewer?","cn":"一串多少钱？"},
+      {"en":"Two skewers please.","cn":"先来两串。"}
+    ]
+  },
+  {
+    "name": "换钱货币",
+    "description": "换泰铢、问汇率、零钱",
+    "content": "<h4>泰国换钱小贴士</h4><p>建议去Super Rich换泰铢，汇率比机场好，可问当日汇率、换指定金额、要零钱、避免硬币。</p>",
+    "total": 10,
+    "masteredCount": 0,
+    "sentences": [
+      {"en":"I want to exchange money.","cn":"我要换钱。"},
+      {"en":"What is the exchange rate today?","cn":"今天汇率多少？"},
+      {"en":"Exchange RMB to Thai baht.","cn":"人民币换泰铢。"},
+      {"en":"Please change two thousand baht.","cn":"换2000泰铢。"},
+      {"en":"Small change please.","cn":"请给我一点零钱。"},
+      {"en":"Is there any service fee?","cn":"有手续费吗？"},
+      {"en":"Where is the exchange shop?","cn":"换钱店在哪里？"},
+      {"en":"The rate is good here.","cn":"这里汇率不错。"},
+      {"en":"I want more banknotes.","cn":"我要多点纸币。"},
+      {"en":"No coins please.","cn":"尽量不要硬币。"}
+    ]
+  },
+  {
+    "name": "问路砍价",
+    "description": "景点问路、购物砍价",
+    "content": "<h4>问路与购物砍价</h4><p>用于问路大皇宫、考山路、洗手间，听不懂请对方说慢一点；夜市小商品可以礼貌砍价。</p>",
+    "total": 10,
+    "masteredCount": 0,
+    "sentences": [
+      {"en":"Excuse me.","cn":"打扰一下。"},
+      {"en":"Where is Khao San Road?","cn":"考山路在哪里？"},
+      {"en":"How can I go to the Grand Palace?","cn":"怎么去大皇宫？"},
+      {"en":"Walk straight please.","cn":"请直走。"},
+      {"en":"How many minutes on foot?","cn":"步行要几分钟？"},
+      {"en":"Where is the restroom?","cn":"洗手间在哪里？"},
+      {"en":"I do not understand.","cn":"我听不懂。"},
+      {"en":"Please speak slowly.","cn":"请说慢一点。"},
+      {"en":"How much is this?","cn":"这个多少钱？"},
+      {"en":"Too expensive, cheaper please.","cn":"太贵了，便宜一点吧。"}
+    ]
+  }
+]

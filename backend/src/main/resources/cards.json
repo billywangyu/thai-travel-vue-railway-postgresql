@@ -1,0 +1,90 @@
+[
+  {
+    "cardId": "entry-1",
+    "category": "entry",
+    "title": "登机入境",
+    "subtitle": "准备文件与TDAC申报",
+    "icon": "✈️",
+    "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663505674044/T5jfh22m8WTLXw3vy8hdVq/thailand-hero-bg-Tq7FgNw8WFfNYWcRGxT4fe.webp?w=400",
+    "frontContent": "泰国入境需要准备护照、TDAC电子入境卡、回程机票和住宿证明。",
+    "backContent": "<h4>📋 入境必备文件</h4><ul><li><b>护照</b>：有效期需大于6个月</li><li><b>TDAC电子入境卡</b>：2025年5月起强制使用，需提前在线填写（tdac.immigration.go.th）</li><li><b>回程机票</b>：须出示确认单</li><li><b>住宿证明</b>：酒店订单或邀请函</li><li><b>财力证明</b>：每人2万泰铢或等值外币（抽查）</li></ul><h4>🛂 免签政策</h4><p>中国大陆、香港、澳门等地区护照可享30天免签，但需准备上述文件。</p><h4>📱 TDAC填写步骤</h4><ol><li>访问 tdac.immigration.go.th</li><li>填写个人信息、航班号、在泰地址</li><li>完成健康申报</li><li>保存QR码</li><li>入境时出示QR码和护照</li></ol>",
+    "keyPoints": "护照有效期6个月+,TDAC电子入境卡,回程机票,住宿证明"
+  },
+  {
+    "cardId": "entry-2",
+    "category": "entry",
+    "title": "海关通关",
+    "subtitle": "入境流程与限制物品",
+    "icon": "🛃",
+    "image": "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?w=400",
+    "frontContent": "了解泰国海关规定和入境限制物品。",
+    "backContent": "<h4>🛄 海关通道选择</h4><p><b>绿色通道</b>：无申报物品<br><b>红色通道</b>：有需申报物品或超额现金</p><h4>📦 限制与禁止物品</h4><ul><li><b>酒类</b>：不超过1,000毫升</li><li><b>香烟</b>：不超过200支（或雪茄250克、烟草250克）</li><li><b>电子烟</b>：禁止携带入境，违者罚款或监禁</li><li><b>现金</b>：携带超过2万泰铢或等值外币需申报</li><li><b>动植物及其制品</b>：需检疫申报</li></ul><h4>💡 通关小贴士</h4><p>提前准备好护照、TDAC二维码，排队时注意通道颜色。素万那普机场卫星厅（SAT-1）人较少，可优先选择。</p>",
+    "keyPoints": "红色/绿色通道,限制物品申报,禁止电子烟,现金申报"
+  },
+  {
+    "cardId": "entertainment-1",
+    "category": "entertainment",
+    "title": "赌场与娱乐",
+    "subtitle": "泰国娱乐综合体与合法化进展",
+    "icon": "🎰",
+    "image": "https://images.unsplash.com/photo-1596838132731-3301c3fd4317?w=400",
+    "frontContent": "泰国赌场合法化进程与娱乐综合体信息。",
+    "backContent": "<h4>📈 政策进展</h4><p>2025年1月泰国内阁通过《综合娱乐场所法案》草案，允许在大型娱乐综合体内设立赌场，预计2026年正式实施。</p><h4>🏢 规划中的娱乐综合体</h4><ul><li>曼谷、芭堤雅、普吉岛、清迈、孔敬五地为首批选址</li><li>涵盖赌场、酒店、购物中心、会展中心、主题公园</li><li>外国游客免费进入，泰国公民需缴纳5,000泰铢入场费</li></ul><h4>⚠️ 当前法律提醒</h4><p>在娱乐综合体正式开放前，泰国境内除政府彩票和赛马外，所有赌博活动均属非法。边境赌场（如柬埔寨波贝、缅甸妙瓦底）不受泰国法律监管，但存在安全风险，不建议前往。</p>",
+    "keyPoints": "2026年实施,五大选址,外国游客免费,当前仍禁止赌博"
+  },
+  {
+    "cardId": "entertainment-2",
+    "category": "entertainment",
+    "title": "夜生活与文化",
+    "subtitle": "夜市、SPA、传统表演",
+    "icon": "🌃",
+    "image": "https://images.unsplash.com/photo-1504214208698-ea1916a2195a?w=400",
+    "frontContent": "探索泰国丰富的夜生活和文化体验。",
+    "backContent": "<h4>🌙 热门夜市</h4><ul><li><b>恰图恰周末市集</b>：周六日营业，东南亚最大市集，超过15,000个摊位</li><li><b>Asiatique河滨码头夜市</b>：每日17:00-24:00，摩天轮地标</li><li><b>火车夜市（Train Night Market Ratchada）</b>：周四至周日，当地美食和复古商品</li></ul><h4>💆 按摩与SPA</h4><p>泰国传统按摩每小时200-400泰铢，高级SPA价格约1,000-3,000泰铢。推荐考山路、素坤逸路周边。</p><h4>🎭 文化表演</h4><p>金东尼人妖秀（Golden Dome Cabaret）门票800-1,200泰铢。暹罗梦幻剧场（Siam Niramit）展示泰国历史文化。</p>",
+    "keyPoints": "恰图恰市集,Asiatique夜市,泰式按摩,人妖秀"
+  },
+  {
+    "cardId": "accommodation-1",
+    "category": "accommodation",
+    "title": "住宿选择",
+    "subtitle": "曼谷、清迈、布吉岛等主要城市",
+    "icon": "🏨",
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
+    "frontContent": "选择适合您的泰国住宿地点和类型。",
+    "backContent": "<h4>📍 城市推荐</h4><ul><li><b>曼谷</b>：推荐暹罗区（购物便利）、素坤逸区（夜生活丰富）、考山路（背包客天堂）</li><li><b>清迈</b>：古城内民宿众多，宁曼路时尚酒店集中</li><li><b>普吉岛</b>：芭东海滩热闹，卡伦/卡塔海滩安静，度假村为主</li></ul><h4>🏷️ 住宿类型</h4><ul><li><b>五星酒店</b>：曼谷文华东方、悦榕庄，淡季价格200-400美元</li><li><b>中档酒店</b>：宜必思、美居等连锁品牌，30-80美元/晚</li><li><b>青年旅舍</b>：床位8-15美元/晚，考山路集中最多</li></ul><h4>📌 预订技巧</h4><p>旺季（11月-次年2月）提前2-4周预订；淡季（4月-10月）可享受5-7折。使用Agoda、Booking.com比价，靠近BTS/MRT站出行更便利。</p>",
+    "keyPoints": "曼谷暹罗/素坤逸,清迈古城,普吉海滩,提前预订优惠"
+  },
+  {
+    "cardId": "accommodation-2",
+    "category": "accommodation",
+    "title": "住宿体验",
+    "subtitle": "豪华度假与文化民宿",
+    "icon": "🏖️",
+    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
+    "frontContent": "享受泰国特色的住宿体验。",
+    "backContent": "<h4>🏝️ 豪华度假村推荐</h4><ul><li><b>普吉岛悦榕庄</b>：私人泳池别墅，每晚300-600美元</li><li><b>苏梅岛W酒店</b>：时尚海滨别墅，每晚250-500美元</li><li><b>清迈四季酒店</b>：稻田环绕的田园风格，每晚200-400美元</li></ul><h4>🏡 文化民宿体验</h4><ul><li><b>清迈传统木屋</b>：体验兰纳文化，价格30-80美元/晚</li><li><b>水上市场民宿</b>：安帕瓦、丹嫩沙多附近有河畔民宿</li><li><b>曼谷运河民宿</b>：体验老曼谷生活，靠近郑王庙</li></ul><h4>⚠️ 注意事项</h4><ul><li>淡季部分度假村会关闭泳池或餐厅</li><li>民宿可能不提供24小时前台</li><li>查看近期评价，确认卫生状况</li></ul>",
+    "keyPoints": "悦榕庄,四季酒店,兰纳木屋,水上民宿"
+  },
+  {
+    "cardId": "attractions-1",
+    "category": "attractions",
+    "title": "曼谷景点",
+    "subtitle": "大皇宫、四面佛、卧佛寺",
+    "icon": "🏛️",
+    "image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=400",
+    "frontContent": "探索曼谷最著名的历史文化景点。",
+    "backContent": "<h4>👑 大皇宫（Grand Palace）</h4><ul><li>开放时间：08:30-15:30（每日）</li><li>门票：500泰铢（含玉佛寺）</li><li>着装要求：不得穿短裤、无袖上衣、露趾鞋</li><li>交通：BTS Saphan Taksin站转乘船至Tha Chang码头</li></ul><h4>🙏 四面佛（Erawan Shrine）</h4><ul><li>开放时间：06:00-23:00</li><li>免费参观，建议备香烛和花环（门口可购买）</li><li>交通：BTS Chit Lom站步行2分钟</li></ul><h4>🛕 卧佛寺（Wat Pho）</h4><ul><li>开放时间：08:00-18:30</li><li>门票：200泰铢</li><li>拥有曼谷最大的卧佛和传统按摩学校</li><li>交通：靠近大皇宫，步行可到达</li></ul>",
+    "keyPoints": "大皇宫500铢,四面佛免费,卧佛寺按摩,着装要求"
+  },
+  {
+    "cardId": "attractions-2",
+    "category": "attractions",
+    "title": "近郊与海岛",
+    "subtitle": "大城府、布吉岛、皮皮岛",
+    "icon": "🏝️",
+    "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=400",
+    "frontContent": "体验泰国多样的自然和文化景观。",
+    "backContent": "<h4>🏚️ 大城府（Ayutthaya）</h4><ul><li>距离曼谷约80公里，车程1.5小时</li><li>世界文化遗产，有玛哈泰寺（树抱佛头）等古迹</li><li>门票：每个寺庙约50泰铢，一日通票220泰铢</li><li>建议包车或参加一日游</li></ul><h4>🏖️ 普吉岛（Phuket）</h4><ul><li>泰国最大岛屿，以海滩和水上活动闻名</li><li>芭东海滩夜生活丰富，卡伦/卡塔适合家庭</li><li>周边可跳岛游：皮皮岛、皇帝岛、珊瑚岛</li></ul><h4>⛱️ 皮皮岛（Phi Phi Islands）</h4><ul><li>从普吉或甲米乘船约1.5-2小时</li><li>玛雅湾（Maya Bay）因电影《海滩》出名，现已限制游客数量</li><li>浮潜、潜水胜地，海水清澈见底</li></ul><h4>🗓️ 最佳季节</h4><p>干季（11月-次年4月）适合海滩；雨季（5月-10月）游客较少，价格优惠，但出海需注意天气。</p>",
+    "keyPoints": "大城府树抱佛,普吉岛水上活动,皮皮岛浮潜,干季最佳"
+  }
+]

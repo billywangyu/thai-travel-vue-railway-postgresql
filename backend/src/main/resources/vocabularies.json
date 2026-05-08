@@ -1,0 +1,5002 @@
+[
+  {
+    "word": "Passport",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entry.",
+    "chineseTranslation": "护照",
+    "example": "You must show your passport at immigration.",
+    "category": "entry",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Visa",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entry.",
+    "chineseTranslation": "签证",
+    "example": "I need to apply for a tourist visa.",
+    "category": "entry",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Immigration",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entry.",
+    "chineseTranslation": "入境",
+    "example": "The immigration officer asked about my trip.",
+    "category": "entry",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Customs",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entry.",
+    "chineseTranslation": "海关",
+    "example": "Please declare your goods at customs.",
+    "category": "entry",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Declaration",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entry.",
+    "chineseTranslation": "申报",
+    "example": "Fill out the customs declaration form.",
+    "category": "entry",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Boarding pass",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entry.",
+    "chineseTranslation": "登机牌",
+    "example": "Please show your boarding pass at the gate.",
+    "category": "entry",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Departure",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entry.",
+    "chineseTranslation": "出发",
+    "example": "Our departure time is 8:00 AM.",
+    "category": "entry",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Arrival",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entry.",
+    "chineseTranslation": "到达",
+    "example": "The arrival hall is on the ground floor.",
+    "category": "entry",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Baggage claim",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entry.",
+    "chineseTranslation": "行李提取",
+    "example": "Where is the baggage claim area?",
+    "category": "entry",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Quarantine",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entry.",
+    "chineseTranslation": "检疫",
+    "example": "Some items must go through quarantine.",
+    "category": "entry",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Hotel",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of accommodation.",
+    "chineseTranslation": "酒店",
+    "example": "We booked a hotel near the city center.",
+    "category": "accommodation",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Resort",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of accommodation.",
+    "chineseTranslation": "度假村",
+    "example": "The beach resort offers many water sports.",
+    "category": "accommodation",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Hostel",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of accommodation.",
+    "chineseTranslation": "青年旅舍",
+    "example": "I stayed in a cheap hostel in Bangkok.",
+    "category": "accommodation",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Guesthouse",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of accommodation.",
+    "chineseTranslation": "民宿",
+    "example": "The guesthouse is run by a local family.",
+    "category": "accommodation",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Check-in",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of accommodation.",
+    "chineseTranslation": "入住",
+    "example": "Check-in time is after 2:00 PM.",
+    "category": "accommodation",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Check-out",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of accommodation.",
+    "chineseTranslation": "退房",
+    "example": "Check-out is before noon.",
+    "category": "accommodation",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Suite",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of accommodation.",
+    "chineseTranslation": "套房",
+    "example": "They upgraded us to a suite.",
+    "category": "accommodation",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Room service",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of accommodation.",
+    "chineseTranslation": "客房服务",
+    "example": "I ordered room service for breakfast.",
+    "category": "accommodation",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Amenities",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of accommodation.",
+    "chineseTranslation": "便利设施",
+    "example": "The hotel provides free Wi-Fi as an amenity.",
+    "category": "accommodation",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Lobby",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of accommodation.",
+    "chineseTranslation": "大厅",
+    "example": "Let's meet in the lobby at 10.",
+    "category": "accommodation",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Casino",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entertainment.",
+    "chineseTranslation": "赌场",
+    "example": "Thailand is opening legal casinos.",
+    "category": "entertainment",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Nightclub",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entertainment.",
+    "chineseTranslation": "夜总会",
+    "example": "The nightclub opens until 2 AM.",
+    "category": "entertainment",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Spa",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entertainment.",
+    "chineseTranslation": "水疗/按摩",
+    "example": "A traditional Thai spa is very relaxing.",
+    "category": "entertainment",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Massage",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entertainment.",
+    "chineseTranslation": "按摩",
+    "example": "I got a foot massage after a long walk.",
+    "category": "entertainment",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Show",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entertainment.",
+    "chineseTranslation": "表演",
+    "example": "We watched a traditional dance show.",
+    "category": "entertainment",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Concert",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entertainment.",
+    "chineseTranslation": "音乐会",
+    "example": "There's a free concert in the park tonight.",
+    "category": "entertainment",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Festival",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entertainment.",
+    "chineseTranslation": "节日",
+    "example": "Songkran is the Thai New Year festival.",
+    "category": "entertainment",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Pub",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entertainment.",
+    "chineseTranslation": "酒吧",
+    "example": "Let's have a drink at the local pub.",
+    "category": "entertainment",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Karaoke",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entertainment.",
+    "chineseTranslation": "卡拉OK",
+    "example": "Many locals enjoy karaoke on weekends.",
+    "category": "entertainment",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Night market",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of entertainment.",
+    "chineseTranslation": "夜市",
+    "example": "You can find street food at the night market.",
+    "category": "entertainment",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Temple",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of attractions.",
+    "chineseTranslation": "寺庙",
+    "example": "The Grand Palace is a famous temple.",
+    "category": "attractions",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Beach",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of attractions.",
+    "chineseTranslation": "海滩",
+    "example": "Phuket has many beautiful beaches.",
+    "category": "attractions",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Island",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of attractions.",
+    "chineseTranslation": "岛屿",
+    "example": "Phi Phi Island is a popular day trip.",
+    "category": "attractions",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Museum",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of attractions.",
+    "chineseTranslation": "博物馆",
+    "example": "The National Museum has many artifacts.",
+    "category": "attractions",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Park",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of attractions.",
+    "chineseTranslation": "公园",
+    "example": "Lumphini Park is great for jogging.",
+    "category": "attractions",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Waterfall",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of attractions.",
+    "chineseTranslation": "瀑布",
+    "example": "We hiked to a stunning waterfall.",
+    "category": "attractions",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Cave",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of attractions.",
+    "chineseTranslation": "洞穴",
+    "example": "Phraya Nakhon Cave is a hidden gem.",
+    "category": "attractions",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Ruin",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of attractions.",
+    "chineseTranslation": "遗址",
+    "example": "Ayutthaya is full of ancient ruins.",
+    "category": "attractions",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Monument",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of attractions.",
+    "chineseTranslation": "纪念碑",
+    "example": "The Democracy Monument is in the old city.",
+    "category": "attractions",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Viewpoint",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of attractions.",
+    "chineseTranslation": "观景台",
+    "example": "The viewpoint offers a panoramic city view.",
+    "category": "attractions",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Restaurant",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of food.",
+    "chineseTranslation": "餐厅",
+    "example": "We had dinner at a Thai restaurant.",
+    "category": "food",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Street food",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of food.",
+    "chineseTranslation": "街头小吃",
+    "example": "Street food is cheap and delicious.",
+    "category": "food",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Menu",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of food.",
+    "chineseTranslation": "菜单",
+    "example": "Can I see the menu, please?",
+    "category": "food",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Recipe",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of food.",
+    "chineseTranslation": "食谱",
+    "example": "I want to learn some Thai recipes.",
+    "category": "food",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Spicy",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of food.",
+    "chineseTranslation": "辣",
+    "example": "Thai food can be very spicy.",
+    "category": "food",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Curry",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of food.",
+    "chineseTranslation": "咖喱",
+    "example": "Green curry is my favorite.",
+    "category": "food",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Noodle",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of food.",
+    "chineseTranslation": "面条",
+    "example": "Pad Thai is a famous noodle dish.",
+    "category": "food",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Rice",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of food.",
+    "chineseTranslation": "米饭",
+    "example": "Jasmine rice is a Thai specialty.",
+    "category": "food",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Seafood",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of food.",
+    "chineseTranslation": "海鲜",
+    "example": "The seafood here is very fresh.",
+    "category": "food",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Dessert",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of food.",
+    "chineseTranslation": "甜点",
+    "example": "Mango sticky rice is a popular dessert.",
+    "category": "food",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Taxi",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of transport.",
+    "chineseTranslation": "出租车",
+    "example": "You can take a taxi from the airport.",
+    "category": "transport",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Bus",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of transport.",
+    "chineseTranslation": "公共汽车",
+    "example": "The public bus is very cheap.",
+    "category": "transport",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Train",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of transport.",
+    "chineseTranslation": "火车",
+    "example": "The night train to Chiang Mai is comfortable.",
+    "category": "transport",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Ferry",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of transport.",
+    "chineseTranslation": "渡轮",
+    "example": "We took a ferry to the island.",
+    "category": "transport",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Tuk-tuk",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of transport.",
+    "chineseTranslation": "嘟嘟车",
+    "example": "Negotiate the price before getting in a tuk-tuk.",
+    "category": "transport",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Sky train",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of transport.",
+    "chineseTranslation": "天铁",
+    "example": "BTS Sky Train is the fastest way across Bangkok.",
+    "category": "transport",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Subway",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of transport.",
+    "chineseTranslation": "地铁",
+    "example": "The MRT goes to the train station.",
+    "category": "transport",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Bicycle",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of transport.",
+    "chineseTranslation": "自行车",
+    "example": "Renting a bicycle is a great way to explore.",
+    "category": "transport",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Motorcycle",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of transport.",
+    "chineseTranslation": "摩托车",
+    "example": "Many locals use motorcycles to beat traffic.",
+    "category": "transport",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Pickup",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of transport.",
+    "chineseTranslation": "皮卡",
+    "example": "Songthaews are pickup trucks used as shared taxis.",
+    "category": "transport",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Bargain",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of shopping.",
+    "chineseTranslation": "讨价还价",
+    "example": "You should bargain at the market.",
+    "category": "shopping",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Discount",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of shopping.",
+    "chineseTranslation": "折扣",
+    "example": "Is there a discount for cash?",
+    "category": "shopping",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Receipt",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of shopping.",
+    "chineseTranslation": "收据",
+    "example": "Keep the receipt for tax refund.",
+    "category": "shopping",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Price",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of shopping.",
+    "chineseTranslation": "价格",
+    "example": "The price is a bit high.",
+    "category": "shopping",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Size",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of shopping.",
+    "chineseTranslation": "尺寸",
+    "example": "Do you have a larger size?",
+    "category": "shopping",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Color",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of shopping.",
+    "chineseTranslation": "颜色",
+    "example": "I like this color.",
+    "category": "shopping",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Brand",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of shopping.",
+    "chineseTranslation": "品牌",
+    "example": "Is this a local brand?",
+    "category": "shopping",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Local product",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of shopping.",
+    "chineseTranslation": "土特产",
+    "example": "I want to buy some local products.",
+    "category": "shopping",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Handicraft",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of shopping.",
+    "chineseTranslation": "手工艺品",
+    "example": "Thai handicrafts make great souvenirs.",
+    "category": "shopping",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Souvenir",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of shopping.",
+    "chineseTranslation": "纪念品",
+    "example": "I bought a souvenir for my friend.",
+    "category": "shopping",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Hospital",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of emergency.",
+    "chineseTranslation": "医院",
+    "example": "The nearest hospital is on Rama IV Road.",
+    "category": "emergency",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Pharmacy",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of emergency.",
+    "chineseTranslation": "药店",
+    "example": "I need to buy some medicine at the pharmacy.",
+    "category": "emergency",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Insurance",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of emergency.",
+    "chineseTranslation": "保险",
+    "example": "Make sure you have travel insurance.",
+    "category": "emergency",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Police",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of emergency.",
+    "chineseTranslation": "警察",
+    "example": "Call the tourist police at 1155.",
+    "category": "emergency",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Embassy",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of emergency.",
+    "chineseTranslation": "大使馆",
+    "example": "I lost my passport and must go to the embassy.",
+    "category": "emergency",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Consulate",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of emergency.",
+    "chineseTranslation": "领事馆",
+    "example": "The consulate can help you with emergencies.",
+    "category": "emergency",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Accident",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of emergency.",
+    "chineseTranslation": "事故",
+    "example": "There was a minor accident on the road.",
+    "category": "emergency",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Doctor",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of emergency.",
+    "chineseTranslation": "医生",
+    "example": "I need to see a doctor.",
+    "category": "emergency",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Prescription",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of emergency.",
+    "chineseTranslation": "处方",
+    "example": "You need a prescription for this medicine.",
+    "category": "emergency",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Emergency",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of emergency.",
+    "chineseTranslation": "紧急情况",
+    "example": "In an emergency, call 911.",
+    "category": "emergency",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Hello",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of general.",
+    "chineseTranslation": "你好",
+    "example": "Hello, how are you?",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Thank you",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of general.",
+    "chineseTranslation": "谢谢",
+    "example": "Thank you for your help.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Excuse me",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of general.",
+    "chineseTranslation": "打扰一下",
+    "example": "Excuse me, where is the restroom?",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Sorry",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of general.",
+    "chineseTranslation": "对不起",
+    "example": "I'm sorry, I don't understand.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Yes",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of general.",
+    "chineseTranslation": "是",
+    "example": "Yes, I would like some water.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "No",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of general.",
+    "chineseTranslation": "不",
+    "example": "No, thank you.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Please",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of general.",
+    "chineseTranslation": "请",
+    "example": "Please help me.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Help",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of general.",
+    "chineseTranslation": "帮助",
+    "example": "Help! I'm lost.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "Where",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of general.",
+    "chineseTranslation": "哪里",
+    "example": "Where is the nearest ATM?",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "How much",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "A common word used in the context of general.",
+    "chineseTranslation": "多少钱",
+    "example": "How much is this?",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm91",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇91",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm92",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇92",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm93",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇93",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm94",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇94",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm95",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇95",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm96",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇96",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm97",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇97",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm98",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇98",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm99",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇99",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm100",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇100",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm101",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇101",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm102",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇102",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm103",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇103",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm104",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇104",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm105",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇105",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm106",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇106",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm107",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇107",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm108",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇108",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm109",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇109",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm110",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇110",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm111",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇111",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm112",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇112",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm113",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇113",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm114",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇114",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm115",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇115",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm116",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇116",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm117",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇117",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm118",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇118",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm119",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇119",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm120",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇120",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm121",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇121",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm122",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇122",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm123",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇123",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm124",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇124",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm125",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇125",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm126",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇126",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm127",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇127",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm128",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇128",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm129",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇129",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm130",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇130",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm131",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇131",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm132",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇132",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm133",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇133",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm134",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇134",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm135",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇135",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm136",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇136",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm137",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇137",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm138",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇138",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm139",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇139",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm140",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇140",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm141",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇141",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm142",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇142",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm143",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇143",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm144",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇144",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm145",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇145",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm146",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇146",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm147",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇147",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm148",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇148",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm149",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇149",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm150",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇150",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm151",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇151",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm152",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇152",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm153",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇153",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm154",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇154",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm155",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇155",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm156",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇156",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm157",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇157",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm158",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇158",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm159",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇159",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm160",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇160",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm161",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇161",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm162",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇162",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm163",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇163",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm164",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇164",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm165",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇165",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm166",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇166",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm167",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇167",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm168",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇168",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm169",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇169",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm170",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇170",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm171",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇171",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm172",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇172",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm173",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇173",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm174",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇174",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm175",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇175",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm176",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇176",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm177",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇177",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm178",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇178",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm179",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇179",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm180",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇180",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm181",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇181",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm182",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇182",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm183",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇183",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm184",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇184",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm185",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇185",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm186",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇186",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm187",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇187",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm188",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇188",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm189",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇189",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm190",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇190",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm191",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇191",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm192",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇192",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm193",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇193",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm194",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇194",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm195",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇195",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm196",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇196",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm197",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇197",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm198",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇198",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm199",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇199",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm200",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇200",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm201",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇201",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm202",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇202",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm203",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇203",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm204",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇204",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm205",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇205",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm206",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇206",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm207",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇207",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm208",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇208",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm209",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇209",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm210",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇210",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm211",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇211",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm212",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇212",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm213",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇213",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm214",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇214",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm215",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇215",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm216",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇216",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm217",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇217",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm218",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇218",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm219",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇219",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm220",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇220",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm221",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇221",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm222",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇222",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm223",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇223",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm224",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇224",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm225",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇225",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm226",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇226",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm227",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇227",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm228",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇228",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm229",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇229",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm230",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇230",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm231",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇231",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm232",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇232",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm233",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇233",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm234",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇234",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm235",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇235",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm236",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇236",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm237",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇237",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm238",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇238",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm239",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇239",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm240",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇240",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm241",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇241",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm242",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇242",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm243",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇243",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm244",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇244",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm245",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇245",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm246",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇246",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm247",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇247",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm248",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇248",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm249",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇249",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm250",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇250",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm251",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇251",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm252",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇252",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm253",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇253",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm254",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇254",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm255",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇255",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm256",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇256",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm257",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇257",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm258",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇258",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm259",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇259",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm260",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇260",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm261",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇261",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm262",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇262",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm263",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇263",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm264",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇264",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm265",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇265",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm266",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇266",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm267",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇267",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm268",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇268",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm269",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇269",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm270",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇270",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm271",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇271",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm272",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇272",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm273",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇273",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm274",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇274",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm275",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇275",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm276",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇276",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm277",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇277",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm278",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇278",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm279",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇279",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm280",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇280",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm281",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇281",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm282",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇282",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm283",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇283",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm284",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇284",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm285",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇285",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm286",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇286",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm287",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇287",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm288",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇288",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm289",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇289",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm290",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇290",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm291",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇291",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm292",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇292",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm293",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇293",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm294",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇294",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm295",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇295",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm296",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇296",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm297",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇297",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm298",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇298",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm299",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇299",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm300",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇300",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm301",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇301",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm302",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇302",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm303",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇303",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm304",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇304",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm305",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇305",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm306",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇306",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm307",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇307",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm308",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇308",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm309",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇309",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm310",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇310",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm311",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇311",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm312",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇312",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm313",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇313",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm314",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇314",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm315",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇315",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm316",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇316",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm317",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇317",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm318",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇318",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm319",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇319",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm320",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇320",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm321",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇321",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm322",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇322",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm323",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇323",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm324",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇324",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm325",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇325",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm326",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇326",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm327",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇327",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm328",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇328",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm329",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇329",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm330",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇330",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm331",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇331",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm332",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇332",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm333",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇333",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm334",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇334",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm335",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇335",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm336",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇336",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm337",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇337",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm338",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇338",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm339",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇339",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm340",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇340",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm341",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇341",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm342",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇342",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm343",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇343",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm344",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇344",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm345",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇345",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm346",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇346",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm347",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇347",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm348",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇348",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm349",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇349",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm350",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇350",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm351",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇351",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm352",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇352",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm353",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇353",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm354",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇354",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm355",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇355",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm356",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇356",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm357",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇357",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm358",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇358",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm359",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇359",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm360",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇360",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm361",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇361",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm362",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇362",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm363",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇363",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm364",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇364",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm365",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇365",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm366",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇366",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm367",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇367",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm368",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇368",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm369",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇369",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm370",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇370",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm371",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇371",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm372",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇372",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm373",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇373",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm374",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇374",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm375",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇375",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm376",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇376",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm377",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇377",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm378",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇378",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm379",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇379",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm380",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇380",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm381",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇381",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm382",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇382",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm383",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇383",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm384",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇384",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm385",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇385",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm386",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇386",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm387",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇387",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm388",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇388",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm389",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇389",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm390",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇390",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm391",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇391",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm392",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇392",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm393",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇393",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm394",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇394",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm395",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇395",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm396",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇396",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm397",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇397",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm398",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇398",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm399",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇399",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm400",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇400",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm401",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇401",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm402",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇402",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm403",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇403",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm404",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇404",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm405",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇405",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm406",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇406",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm407",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇407",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm408",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇408",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm409",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇409",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm410",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇410",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm411",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇411",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm412",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇412",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm413",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇413",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm414",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇414",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm415",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇415",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm416",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇416",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm417",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇417",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm418",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇418",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm419",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇419",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm420",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇420",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm421",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇421",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm422",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇422",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm423",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇423",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm424",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇424",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm425",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇425",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm426",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇426",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm427",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇427",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm428",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇428",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm429",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇429",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm430",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇430",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm431",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇431",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm432",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇432",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm433",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇433",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm434",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇434",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm435",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇435",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm436",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇436",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm437",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇437",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm438",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇438",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm439",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇439",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm440",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇440",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm441",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇441",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm442",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇442",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm443",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇443",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm444",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇444",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm445",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇445",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm446",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇446",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm447",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇447",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm448",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇448",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm449",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇449",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm450",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇450",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm451",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇451",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm452",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇452",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm453",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇453",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm454",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇454",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm455",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇455",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm456",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇456",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm457",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇457",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm458",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇458",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm459",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇459",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm460",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇460",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm461",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇461",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm462",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇462",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm463",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇463",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm464",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇464",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm465",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇465",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm466",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇466",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm467",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇467",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm468",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇468",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm469",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇469",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm470",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇470",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm471",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇471",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm472",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇472",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm473",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇473",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm474",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇474",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm475",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇475",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm476",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇476",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm477",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇477",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm478",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇478",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm479",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇479",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm480",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇480",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm481",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇481",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm482",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇482",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm483",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇483",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm484",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇484",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm485",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇485",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm486",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇486",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm487",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇487",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm488",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇488",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm489",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇489",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm490",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇490",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm491",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇491",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm492",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇492",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm493",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇493",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm494",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇494",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm495",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇495",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm496",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇496",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm497",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇497",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm498",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇498",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm499",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇499",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  },
+  {
+    "word": "GeneralTerm500",
+    "pronunciation": "/auto/",
+    "partOfSpeech": "noun",
+    "definition": "Useful travel vocabulary.",
+    "chineseTranslation": "旅行词汇500",
+    "example": "This is a common travel word.",
+    "category": "general",
+    "difficulty": "beginner"
+  }
+]

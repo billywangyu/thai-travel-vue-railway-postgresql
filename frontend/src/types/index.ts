@@ -1,0 +1,2 @@
+export interface TravelCard { id:number; cardId:string; category:string; title:string; subtitle:string; icon:string; image:string; frontContent:string; backContent:string; keyPoints:string; completed:boolean }
+export interface VocabularyItem { id:number; word:string; pronunciation:string; partOfSpeech:string; definition:string; chineseTranslation:string; example:string; category:string; difficulty:string; learned:boolean }
