@@ -1,7 +1,10 @@
 spring:
+  datasource:
+    url: jdbc:postgresql://turntable.proxy.rlwy.net:46202/railway
+    username: postgres
+    password: mepAeyRgWEkiCtoJJkChqLLwwoTstirQ
+    driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
       ddl-auto: update
     database-platform: org.hibernate.dialect.PostgreSQLDialect
-server:
-  port: ${PORT:8080}
