@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://turntable.proxy.rlwy.net:46202/railway
     username: postgres
-    password: mepAeyRgWEkiCtoJJkChqLLwwoTstirQ
+    password: ${DB_PASSWORD}
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
